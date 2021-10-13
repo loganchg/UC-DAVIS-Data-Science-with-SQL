@@ -1,0 +1,24 @@
+Congratulations. You've successfully completed this
+course on SQL for data science. In this course, we went over
+an extraordinary amount of material. We started simple by going
+over standard SQL syntax, some standard databases terminology and how to write simple queries to help you
+select data from tables and work with it. We moved on to discussing
+methods to filter and sort your data results by using common
+operators and clauses like where, like, order by, goodbye, and between. We also spent quite a bit of time
+talking about subqueries and different kinds of JOINS. We learned how to use case statements in
+order to help you categorize your data, and then we ended up going over some
+specific strategies to keep in mind when you're using SQL for
+data science purposes. Always remember,
+slowly do when writing your queries. And I guarantee you that your queries
+will be cleaner and more efficient. Between all the things you've learned and all the practice assignments you've
+accomplished, you've come a long ways and learned an enormous amount of SQL and
+how it's used for the data science field. You should be proud of
+what you've accomplished. I hope that through this
+course you've discovered just how powerful SQL can
+be in data science, and learned a little bit about how fascinating
+the data science field truly is. I hope that this is just the beginning
+of your data science journey and you are inspired to do more. Remember, data is everywhere and
+the more you know how to use it and use the data to gain insights and
+make better decisions, the more value you'll be able to provide
+to any organization you're a part of. Thanks so much for joining me. I hope you take these new skills you've
+learned and do good to change the world. Best of luck. [MUSIC]
